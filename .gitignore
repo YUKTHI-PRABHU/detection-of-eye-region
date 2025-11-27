@@ -3,3 +3,4 @@ eye-region-detection/venv/
 __pycache__/
 *.pyd
 *.dll
+eye-region-detection/Lib/
